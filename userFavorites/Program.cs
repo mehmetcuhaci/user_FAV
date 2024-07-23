@@ -5,6 +5,18 @@ using userFavorites.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddCors(options =>
+{
+
+    options.AddPolicy("AllowAll", builder =>
+    {
+        builder.AllowAnyOrigin()
+        .AllowAnyHeader()
+        .AllowAnyMethod();
+
+    });
+
+});
 // Add services to the container.
 
 builder.Services.AddControllers();
@@ -32,6 +44,8 @@ builder.Services.Configure<IdentityOptions>(options =>
 
 
 var app = builder.Build();
+
+app.UseCors("AllowAll");
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())

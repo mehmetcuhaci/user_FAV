@@ -7,6 +7,10 @@ namespace userFavorites
 {
     public sealed class ApplicationDbContext : IdentityDbContext<AppUser,IdentityRole<Guid>,Guid>
     {
+
+        public DbSet<StockModel> Stocks { get; set; }
+        public DbSet<FavoriteModel> Favorites { get; set; }
+        public DbSet<ArticleModel> Articles { get; set; }
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
             : base(options)
         {

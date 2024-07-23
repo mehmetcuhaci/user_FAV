@@ -22,12 +22,16 @@ namespace userFavorites.Controllers
            var stock=await _context.Stocks.ToListAsync();
 
             return Ok(stock);
-               
-               
-               
+
         }
 
+        [HttpGet]
+        public async Task<IActionResult> GetCrypto()
+        {
+            var crypto=await _context.Crypto.ToListAsync();
 
+            return Ok(crypto);
+        }
 
     }
 }

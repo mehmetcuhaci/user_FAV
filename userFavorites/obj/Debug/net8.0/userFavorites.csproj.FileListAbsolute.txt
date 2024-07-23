@@ -141,3 +141,4 @@ C:\Users\Ayberk\source\repos\userFavorites\userFavorites\obj\Debug\net8.0\refint
 C:\Users\Ayberk\source\repos\userFavorites\userFavorites\obj\Debug\net8.0\userFavorites.pdb
 C:\Users\Ayberk\source\repos\userFavorites\userFavorites\obj\Debug\net8.0\userFavorites.genruntimeconfig.cache
 C:\Users\Ayberk\source\repos\userFavorites\userFavorites\obj\Debug\net8.0\ref\userFavorites.dll
+C:\Users\Ayberk\source\repos\userFavorites\userFavorites\obj\Debug\net8.0\userFavorites.sourcelink.json

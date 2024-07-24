@@ -9,9 +9,10 @@ namespace userFavorites
     {
 
         public DbSet<StockModel> Stocks { get; set; }
-        public DbSet<FavoriteModel> Favorites { get; set; }
+        public DbSet<FavoriteModel> StockFavorites { get; set; }
         public DbSet<ArticleModel> Articles { get; set; }
         public DbSet<CryptoModel> Crypto { get; set; }
+        public DbSet<CryptoFavModel> CryptoFavorites { get; set; }
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
             : base(options)
         {

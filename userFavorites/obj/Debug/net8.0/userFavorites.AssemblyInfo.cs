@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("userFavorites")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d669748eff443fad1061407efb807bd579e43d8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd57f8535d1da1ca7b5605501928f67613caa4ee")]
 [assembly: System.Reflection.AssemblyProductAttribute("userFavorites")]
 [assembly: System.Reflection.AssemblyTitleAttribute("userFavorites")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -20,7 +20,7 @@ namespace userFavorites.Controllers
 
 
         [HttpPost]
-        public async Task<IActionResult> AddFavorites([FromBody]FavoriteModel favoriteModel)
+        public async Task<IActionResult> AddStockFavorites([FromBody]FavoriteModel favoriteModel)
         {
             if (favoriteModel == null || string.IsNullOrEmpty(favoriteModel.UserID) || favoriteModel.stockID == 0)
             {
@@ -30,13 +30,31 @@ namespace userFavorites.Controllers
             favoriteModel.CreatedAt = DateTime.Now;
             favoriteModel.UpdatedAt = DateTime.Now;
 
-            await _context.Favorites.AddAsync(favoriteModel);
+            await _context.StockFavorites.AddAsync(favoriteModel);
             await _context.SaveChangesAsync();
             
             return Ok("Favorilere eklendi");
 
         }
 
+        [HttpPost]
+        public async Task<IActionResult> AddCryptoFavorites([FromBody]CryptoFavModel cryptoFavModel)
+        {
 
+
+            if (cryptoFavModel is null || string.IsNullOrEmpty(cryptoFavModel.UserID)||cryptoFavModel.cryptoID==0)
+            {
+                return BadRequest("Invalid Data");
+            }
+
+            cryptoFavModel.CreatedAt= DateTime.Now;
+            cryptoFavModel.UpdatedAt= DateTime.Now;
+
+            await _context.CryptoFavorites.AddAsync(cryptoFavModel);
+            await _context.SaveChangesAsync();
+
+            return StatusCode(200, new {Message="Favoriye Ekleme başarılı!"});
+
+        }
     }
 }

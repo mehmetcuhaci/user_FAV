@@ -3,18 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Ayberk\\source\\repos\\userFavorites\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E1BAD315-E6C7-4C55-9688-D7B376481440}|userFavorites\\userFavorites.csproj|c:\\users\\ayberk\\source\\repos\\userfavorites\\userfavorites\\models\\cryptomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1BAD315-E6C7-4C55-9688-D7B376481440}|userFavorites\\userFavorites.csproj|solutionrelative:userfavorites\\models\\cryptomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1BAD315-E6C7-4C55-9688-D7B376481440}|userFavorites\\userFavorites.csproj|c:\\users\\ayberk\\source\\repos\\userfavorites\\userfavorites\\models\\stockmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1BAD315-E6C7-4C55-9688-D7B376481440}|userFavorites\\userFavorites.csproj|solutionrelative:userfavorites\\models\\stockmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1BAD315-E6C7-4C55-9688-D7B376481440}|userFavorites\\userFavorites.csproj|c:\\users\\ayberk\\source\\repos\\userfavorites\\userfavorites\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1BAD315-E6C7-4C55-9688-D7B376481440}|userFavorites\\userFavorites.csproj|solutionrelative:userfavorites\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E1BAD315-E6C7-4C55-9688-D7B376481440}|userFavorites\\userFavorites.csproj|c:\\users\\ayberk\\source\\repos\\userfavorites\\userfavorites\\controllers\\favoritecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1BAD315-E6C7-4C55-9688-D7B376481440}|userFavorites\\userFavorites.csproj|solutionrelative:userfavorites\\controllers\\favoritecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,12 +11,28 @@
       "RelativeMoniker": "D:0:0:{E1BAD315-E6C7-4C55-9688-D7B376481440}|userFavorites\\userFavorites.csproj|solutionrelative:userfavorites\\models\\favoritemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E1BAD315-E6C7-4C55-9688-D7B376481440}|userFavorites\\userFavorites.csproj|c:\\users\\ayberk\\source\\repos\\userfavorites\\userfavorites\\models\\cryptofavmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1BAD315-E6C7-4C55-9688-D7B376481440}|userFavorites\\userFavorites.csproj|solutionrelative:userfavorites\\models\\cryptofavmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1BAD315-E6C7-4C55-9688-D7B376481440}|userFavorites\\userFavorites.csproj|c:\\users\\ayberk\\source\\repos\\userfavorites\\userfavorites\\models\\cryptomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1BAD315-E6C7-4C55-9688-D7B376481440}|userFavorites\\userFavorites.csproj|solutionrelative:userfavorites\\models\\cryptomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E1BAD315-E6C7-4C55-9688-D7B376481440}|userFavorites\\userFavorites.csproj|c:\\users\\ayberk\\source\\repos\\userfavorites\\userfavorites\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1BAD315-E6C7-4C55-9688-D7B376481440}|userFavorites\\userFavorites.csproj|solutionrelative:userfavorites\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E1BAD315-E6C7-4C55-9688-D7B376481440}|userFavorites\\userFavorites.csproj|c:\\users\\ayberk\\source\\repos\\userfavorites\\userfavorites\\models\\stockmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1BAD315-E6C7-4C55-9688-D7B376481440}|userFavorites\\userFavorites.csproj|solutionrelative:userfavorites\\models\\stockmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E1BAD315-E6C7-4C55-9688-D7B376481440}|userFavorites\\userFavorites.csproj|c:\\users\\ayberk\\source\\repos\\userfavorites\\userfavorites\\models\\articlemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1BAD315-E6C7-4C55-9688-D7B376481440}|userFavorites\\userFavorites.csproj|solutionrelative:userfavorites\\models\\articlemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1BAD315-E6C7-4C55-9688-D7B376481440}|userFavorites\\userFavorites.csproj|c:\\users\\ayberk\\source\\repos\\userfavorites\\userfavorites\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1BAD315-E6C7-4C55-9688-D7B376481440}|userFavorites\\userFavorites.csproj|solutionrelative:userfavorites\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E1BAD315-E6C7-4C55-9688-D7B376481440}|userFavorites\\userFavorites.csproj|c:\\users\\ayberk\\source\\repos\\userfavorites\\userfavorites\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,11 +62,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "CryptoFavModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ayberk\\source\\repos\\userFavorites\\userFavorites\\Models\\CryptoFavModel.cs",
+              "RelativeDocumentMoniker": "userFavorites\\Models\\CryptoFavModel.cs",
+              "ToolTip": "C:\\Users\\Ayberk\\source\\repos\\userFavorites\\userFavorites\\Models\\CryptoFavModel.cs",
+              "RelativeToolTip": "userFavorites\\Models\\CryptoFavModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:26:18.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CryptoModel.cs",
               "DocumentMoniker": "C:\\Users\\Ayberk\\source\\repos\\userFavorites\\userFavorites\\Models\\CryptoModel.cs",
               "RelativeDocumentMoniker": "userFavorites\\Models\\CryptoModel.cs",
@@ -88,33 +105,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "FavoriteModel.cs",
               "DocumentMoniker": "C:\\Users\\Ayberk\\source\\repos\\userFavorites\\userFavorites\\Models\\FavoriteModel.cs",
               "RelativeDocumentMoniker": "userFavorites\\Models\\FavoriteModel.cs",
               "ToolTip": "C:\\Users\\Ayberk\\source\\repos\\userFavorites\\userFavorites\\Models\\FavoriteModel.cs",
               "RelativeToolTip": "userFavorites\\Models\\FavoriteModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-23T11:05:37.717Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "FavoriteController.cs",
               "DocumentMoniker": "C:\\Users\\Ayberk\\source\\repos\\userFavorites\\userFavorites\\Controllers\\FavoriteController.cs",
               "RelativeDocumentMoniker": "userFavorites\\Controllers\\FavoriteController.cs",
               "ToolTip": "C:\\Users\\Ayberk\\source\\repos\\userFavorites\\userFavorites\\Controllers\\FavoriteController.cs",
               "RelativeToolTip": "userFavorites\\Controllers\\FavoriteController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAnAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAwwDcAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-23T11:03:51.623Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "StockController.cs",
               "DocumentMoniker": "C:\\Users\\Ayberk\\source\\repos\\userFavorites\\userFavorites\\Controllers\\StockController.cs",
               "RelativeDocumentMoniker": "userFavorites\\Controllers\\StockController.cs",
@@ -122,12 +139,11 @@
               "RelativeToolTip": "userFavorites\\Controllers\\StockController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T08:07:38.253Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-23T08:07:38.253Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "StockModel.cs",
               "DocumentMoniker": "C:\\Users\\Ayberk\\source\\repos\\userFavorites\\userFavorites\\Models\\StockModel.cs",
               "RelativeDocumentMoniker": "userFavorites\\Models\\StockModel.cs",
@@ -140,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "LoginDto.cs",
               "DocumentMoniker": "C:\\Users\\Ayberk\\source\\repos\\userFavorites\\userFavorites\\Dtos\\LoginDto.cs",
               "RelativeDocumentMoniker": "userFavorites\\Dtos\\LoginDto.cs",
@@ -152,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\Ayberk\\source\\repos\\userFavorites\\userFavorites\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "userFavorites\\Controllers\\AuthController.cs",
@@ -165,20 +181,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Ayberk\\source\\repos\\userFavorites\\userFavorites\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "userFavorites\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\Ayberk\\source\\repos\\userFavorites\\userFavorites\\ApplicationDbContext.cs",
               "RelativeToolTip": "userFavorites\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA2AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-22T09:18:58.408Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "AppUser.cs",
               "DocumentMoniker": "C:\\Users\\Ayberk\\source\\repos\\userFavorites\\userFavorites\\Models\\AppUser.cs",
               "RelativeDocumentMoniker": "userFavorites\\Models\\AppUser.cs",
@@ -190,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ayberk\\source\\repos\\userFavorites\\userFavorites\\Program.cs",
               "RelativeDocumentMoniker": "userFavorites\\Program.cs",
@@ -198,12 +214,11 @@
               "RelativeToolTip": "userFavorites\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T08:40:55.087Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T08:40:55.087Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "RegisterDto.cs",
               "DocumentMoniker": "C:\\Users\\Ayberk\\source\\repos\\userFavorites\\userFavorites\\Dtos\\RegisterDto.cs",
               "RelativeDocumentMoniker": "userFavorites\\Dtos\\RegisterDto.cs",
